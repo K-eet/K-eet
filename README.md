@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @K-eet
 - 🎓 University of Nottingham Malaysia, BEng Civil Engineering
 - Self Taught Python, SQL, R
 - 💻 Aspiring Data Analyst
